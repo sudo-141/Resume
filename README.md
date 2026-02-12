@@ -1,61 +1,67 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Prasad Ganesh Mahamuni</h1>
-  
-  <h3>
-    <img src="https://img.icons8.com/?size=100&id=Bvw1MpqGTPxI&format=png&color=000000"> <br>
-    An Aspiring Web Developer
-  </h3>
-
-  <p>
-    Welcome to my corner of the internet! I am passionate about building responsive,<br> 
-    user-friendly web applications and constantly learning new technologies.
-  </p>
-
-  <h2>My Tech Stack</h2>
-
-  <p>
-    <strong>Frontend</strong><br>
-    <img src="https://img.icons8.com/?size=60&id=EAUyKy3IwmqM&format=png&color=000000" width="45" alt="HTML5">
-    <img src="https://img.icons8.com/?size=60&id=21278&format=png&color=000000" width="45" alt="CSS3"> 
-    <img src="https://img.icons8.com/?size=60&id=x7XMNGh2vdqA&format=png&color=000000" width="45" alt="JavaScript"> 
-    <img src="https://img.icons8.com/?size=60&id=108784&format=png&color=000000" width="45" alt="React">
-    <img src="https://img.icons8.com/?size=60&id=wPohyHO_qO1a&format=png&color=000000" width="45" alt="Tailwind">
-    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="45" alt="Python">
-  </p>
-
-  <p>
-    <strong>Backend</strong><br>
-    <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=ffffff" width="45" alt="Node.js">
-    <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="45" alt="Express">
-  </p>
-
-  <p>
-    <strong>Database</strong><br>
-    <img src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" width="45" alt="MongoDB">
-    <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="45" alt="MySQL">
-    <img src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" width="45" alt="PostgreSQL">
-  </p>
-
-  <p>
-    <strong>Tools</strong><br>
-    <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="45" alt="VS Code">
-    <img src="https://img.icons8.com/?size=100&id=DiGZkjCzyZXn&format=png&color=000000" width="45" alt="Git">
-    <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=ffffff" width="45" alt="GitHub">
-    <img src="https://img.icons8.com/?size=100&id=POBc2SrrhhnF&format=png&color=000000" width="45" alt="Postman">
-    <img src="https://img.icons8.com/?size=100&id=Yl9ip6CjqAEI&format=png&color=000000" width="45" alt="Docker">
-  </p>
-
-  <p>
-    <strong>Deployment</strong><br>
-    <img src="https://img.icons8.com/?size=100&id=p2VooZ9Gcgxm&format=png&color=000000" width="45" alt="Vercel">
-    <img src="https://img.icons8.com/?size=100&id=g8StgjcrqpfY&format=png&color=ffffff" width="45" alt="Netlify">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fUFpntnM5L6RsODiVpjonS8ey8l-kMNaHA&s" width="45" alt="Render">
-  </p>
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-<hr> 
+
+###
+
 <div align="center">
-  <h1><img src="https://img.icons8.com/?size=100&id=xrNcM57r7vF3&format=png&color=000000"> <br> Contact Me</h1> 
-<br>
-  <img src="https://img.icons8.com/?size=100&id=119026&format=png&color=000000" width="45" alt="Instagram" href="">
-  <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=ffffff" width="45" alt="Github" href="https://github.com/sudo-141/">
-  <img src="https://img.icons8.com/?size=100&id=vWcULbkKy3DN&format=png&color=000000" width="45" alt="LinkedIn">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋! I'm Prasad Ganesh Mahamuni </h1>
+
+###
+
+<h3 align="left">👩‍💻 An Aspiring Web Developer</h3>
+
+###
+
+<p align="left">I'm Prasad Mahamuni from ICEM <br><br>- 🔭 I’m working as an student web developer from home<br>- 📚 I'm currently learning Full STack Devlopement<br>- ⚡ In my free time I design and develop various project.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###

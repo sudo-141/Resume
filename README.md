@@ -20,7 +20,7 @@
     <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Description of the image">
   </p>
   <p> Backend
-    <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" alt="Description of the image">
+    <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=ffffff" alt="Description of the image">
     <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Description of the image">   
   </p>
 </div>

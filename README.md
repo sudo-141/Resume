@@ -16,6 +16,11 @@
     <img src="https://img.icons8.com/?size=60&id=21278&format=png&color=000000" alt="Description of the image">
     <img src="https://img.icons8.com/?size=60&id=x7XMNGh2vdqA&format=png&color=000000" alt="Description of the image">
     <img src="https://img.icons8.com/?size=60&id=108784&format=png&color=000000" alt="Description of the image">
-    <img src="https://img.icons8.com/?size=60&id=wPohyHO_qO1a&format=png&color=000000" alt="Description of the image">    
+    <img src="https://img.icons8.com/?size=60&id=wPohyHO_qO1a&format=png&color=000000" alt="Description of the image">
+    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Description of the image">
+  </p>
+  <p> Backend
+    <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" alt="Description of the image">
+    <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Description of the image">   
   </p>
 </div>

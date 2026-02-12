@@ -10,7 +10,5 @@
   <hr />
 
   <p>
-    <img src="https://img.shields.io/badge/Main_Stack-HTML5_|_CSS3_|_JavaScript-blue" alt="Tech Stack">
-    <img src="https://img.shields.io/badge/Learning-React_|_Node.js-orange" alt="Current Learning">
-  </p>
+    </p>
 </div>

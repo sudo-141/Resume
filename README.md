@@ -10,15 +10,15 @@
   </p>
 
   <hr />
-
-  <p>
+  <h2> My Tech Stack </h2>
+  <h1> Frontend
     <img src="https://img.icons8.com/?size=60&id=EAUyKy3IwmqM&format=png&color=000000" alt="Description of the image">
-    <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="Description of the image">
-    <img src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" alt="Description of the image">
-    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Description of the image">
-    <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" alt="Description of the image">
+    <img src="https://img.icons8.com/?size=60&id=21278&format=png&color=000000" alt="Description of the image">
+    <img src="https://img.icons8.com/?size=60&id=x7XMNGh2vdqA&format=png&color=000000" alt="Description of the image">
+    <img src="https://img.icons8.com/?size=60&id=108784&format=png&color=000000" alt="Description of the image">
+    <img src="https://img.icons8.com/?size=60&id=wPohyHO_qO1a&format=png&color=000000" alt="Description of the image">
     
     
     
-  </p>
+  </h1>
 </div>

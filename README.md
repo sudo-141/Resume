@@ -49,8 +49,8 @@
 
   <p>
     <strong>Deployment</strong><br>
-    <img src="https://img.icons8.com/?size=100&id=p2VooZ9Gcgxm&format=png&color=ffffff" width="45" alt="Vercel">
-    <img src="https://img.icons8.com/?size=100&id=g8StgjcrqpfY&format=png&color=000000" width="45" alt="Netlify">
+    <img src="https://img.icons8.com/?size=100&id=p2VooZ9Gcgxm&format=png&color=000000" width="45" alt="Vercel">
+    <img src="https://img.icons8.com/?size=100&id=g8StgjcrqpfY&format=png&color=ffffff" width="45" alt="Netlify">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fUFpntnM5L6RsODiVpjonS8ey8l-kMNaHA&s" width="45" alt="Render">
   </p>
 </div>

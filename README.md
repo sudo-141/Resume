@@ -11,6 +11,7 @@
 
   <hr />
   <h2> My Tech Stack </h2>
+  
   <p> Frontend
     <img src="https://img.icons8.com/?size=60&id=EAUyKy3IwmqM&format=png&color=000000" alt="Description of the image">
     <img src="https://img.icons8.com/?size=60&id=21278&format=png&color=000000" alt="Description of the image">
@@ -19,8 +20,30 @@
     <img src="https://img.icons8.com/?size=60&id=wPohyHO_qO1a&format=png&color=000000" alt="Description of the image">
     <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Description of the image">
   </p>
+  
   <p> Backend
     <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=ffffff" alt="Description of the image">
     <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Description of the image">   
   </p>
+  
+  <p> Database
+    <img src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" alt="Description of the image">
+    <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="Description of the image">
+    <img src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" alt="Description of the image">
+  </p>
+
+  <p> Tools
+    <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="Description of the image">
+    <img src="https://img.icons8.com/?size=100&id=DiGZkjCzyZXn&format=png&color=000000" alt="Description of the image">
+    <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" alt="Description of the image">
+    <img src="https://img.icons8.com/?size=100&id=POBc2SrrhhnF&format=png&color=000000" alt="Description of the image">
+    <img src="https://img.icons8.com/?size=100&id=Yl9ip6CjqAEI&format=png&color=000000" alt="Description of the image">
+  </p>
+  
+  <p> Deployment
+    <img src="https://img.icons8.com/?size=100&id=p2VooZ9Gcgxm&format=png&color=000000" alt="Description of the image">
+    <img src="https://img.icons8.com/?size=100&id=g8StgjcrqpfY&format=png&color=000000" alt="Description of the image">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fUFpntnM5L6RsODiVpjonS8ey8l-kMNaHA&s" alt="Description of the image">
+  </p>
+  
 </div>

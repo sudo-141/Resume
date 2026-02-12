@@ -27,7 +27,7 @@
 
   <p>
     <strong>Backend</strong><br>
-    <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" width="45" alt="Node.js">
+    <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=ffffff" width="45" alt="Node.js">
     <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="45" alt="Express">
   </p>
 
@@ -42,7 +42,7 @@
     <strong>Tools</strong><br>
     <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="45" alt="VS Code">
     <img src="https://img.icons8.com/?size=100&id=DiGZkjCzyZXn&format=png&color=000000" width="45" alt="Git">
-    <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" width="45" alt="GitHub">
+    <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=ffffff" width="45" alt="GitHub">
     <img src="https://img.icons8.com/?size=100&id=POBc2SrrhhnF&format=png&color=000000" width="45" alt="Postman">
     <img src="https://img.icons8.com/?size=100&id=Yl9ip6CjqAEI&format=png&color=000000" width="45" alt="Docker">
   </p>

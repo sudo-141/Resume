@@ -11,14 +11,11 @@
 
   <hr />
   <h2> My Tech Stack </h2>
-  <h1> Frontend
+  <p> Frontend
     <img src="https://img.icons8.com/?size=60&id=EAUyKy3IwmqM&format=png&color=000000" alt="Description of the image">
     <img src="https://img.icons8.com/?size=60&id=21278&format=png&color=000000" alt="Description of the image">
     <img src="https://img.icons8.com/?size=60&id=x7XMNGh2vdqA&format=png&color=000000" alt="Description of the image">
     <img src="https://img.icons8.com/?size=60&id=108784&format=png&color=000000" alt="Description of the image">
-    <img src="https://img.icons8.com/?size=60&id=wPohyHO_qO1a&format=png&color=000000" alt="Description of the image">
-    
-    
-    
-  </h1>
+    <img src="https://img.icons8.com/?size=60&id=wPohyHO_qO1a&format=png&color=000000" alt="Description of the image">    
+  </p>
 </div>

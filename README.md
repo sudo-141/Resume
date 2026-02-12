@@ -53,3 +53,9 @@
   </p>
 </div>
 <hr> 
+<div align="auto">
+  <h1>Contact Me <img src="https://img.icons8.com/?size=100&id=xrNcM57r7vF3&format=png&color=000000"> </h1> 
+<br>
+  <img src="https://img.icons8.com/?size=100&id=119026&format=png&color=000000" width="45" alt="Instagram" href="">
+  <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=ffffff" width="45" alt="Github" href="https://github.com/sudo-141/">
+  <img src="https://img.icons8.com/?size=100&id=vWcULbkKy3DN&format=png&color=000000" width="45" alt="LinkedIn">

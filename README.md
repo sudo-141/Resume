@@ -10,6 +10,6 @@
   <hr />
 
   <p>
-    <img src="https://img.icons8.com/?size=100&id=EAUyKy3IwmqM&format=png&color=000000" alt="Description of the image" width="500" height="600">
+    <img src="https://img.icons8.com/?size=20&id=EAUyKy3IwmqM&format=png&color=000000" alt="Description of the image" width="500" height="600">
     </p>
 </div>

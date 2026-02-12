@@ -17,9 +17,9 @@
 
   <p>
     <strong>Frontend</strong><br>
-    <img src="https://img.icons8.com/?size=60&id=EAUyKy3IwmqM&format=png&color=000000" width="45" alt="HTML5">
-    <img src="https://img.icons8.com/?size=60&id=21278&format=png&color=000000" width="45" alt="CSS3">
-    <img src="https://img.icons8.com/?size=60&id=x7XMNGh2vdqA&format=png&color=000000" width="45" alt="JavaScript">
+    <img src="https://img.icons8.com/?size=60&id=EAUyKy3IwmqM&format=png&color=000000" width="45" alt="HTML5"> HTML
+    <img src="https://img.icons8.com/?size=60&id=21278&format=png&color=000000" width="45" alt="CSS3"> CSS
+    <img src="https://img.icons8.com/?size=60&id=x7XMNGh2vdqA&format=png&color=000000" width="45" alt="JavaScript"> JavaScript
     <img src="https://img.icons8.com/?size=60&id=108784&format=png&color=000000" width="45" alt="React">
     <img src="https://img.icons8.com/?size=60&id=wPohyHO_qO1a&format=png&color=000000" width="45" alt="Tailwind">
     <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="45" alt="Python">

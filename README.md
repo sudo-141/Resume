@@ -2,7 +2,7 @@
   <h1>Hi there! 👋 I'm Prasad Ganesh Mahamuni</h1>
   
   <h3>
-    <img src="https://img.icons8.com/?size=100&id=Bvw1MpqGTPxI&format=png&color=000000" width="30"> 
+    <img src="https://img.icons8.com/?size=100&id=Bvw1MpqGTPxI&format=png&color=000000"> 
     An Aspiring Web Developer
   </h3>
 

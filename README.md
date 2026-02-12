@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Hi there! 👋 I'm Prasad Ganesh Mahamuni!</h1>
-  <h3>🚀 An Aspiring Web Developer</h3>
+  <h3><img src="https://img.icons8.com/?size=100&id=Bvw1MpqGTPxI&format=png&color=000000" alt="Description of the image">
+    
+   An Aspiring Web Developer</h3>
   
   <p>
     Welcome to my corner of the internet! I am passionate about building responsive, 
